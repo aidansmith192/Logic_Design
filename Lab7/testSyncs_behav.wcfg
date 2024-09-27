@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testSyncs_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testSyncs" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="275160000fs"></ZoomStartTime>
+      <ZoomEndTime time="425760001fs"></ZoomEndTime>
+      <Cursor1Time time="331760000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="129"></NameColumnWidth>
+      <ValueColumnWidth column_width="131"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/testSyncs/btnC" type="logic">
+      <obj_property name="ElementShortName">btnC</obj_property>
+      <obj_property name="ObjectShortName">btnC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/clkin" type="logic">
+      <obj_property name="ElementShortName">clkin</obj_property>
+      <obj_property name="ObjectShortName">clkin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/go" type="logic">
+      <obj_property name="ElementShortName">go</obj_property>
+      <obj_property name="ObjectShortName">go</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/PERIOD" type="array">
+      <obj_property name="ElementShortName">PERIOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PERIOD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/DUTY_CYCLE" type="other">
+      <obj_property name="ElementShortName">DUTY_CYCLE</obj_property>
+      <obj_property name="ObjectShortName">DUTY_CYCLE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/OFFSET" type="array">
+      <obj_property name="ElementShortName">OFFSET[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OFFSET[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/Netted/caughtNow" type="logic">
+      <obj_property name="ElementShortName">caughtNow</obj_property>
+      <obj_property name="ObjectShortName">caughtNow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/Netted/caught" type="logic">
+      <obj_property name="ElementShortName">caught</obj_property>
+      <obj_property name="ObjectShortName">caught</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/nextH" type="array">
+      <obj_property name="ElementShortName">nextH[9:0]</obj_property>
+      <obj_property name="ObjectShortName">nextH[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/nextV" type="array">
+      <obj_property name="ElementShortName">nextV[9:0]</obj_property>
+      <obj_property name="ObjectShortName">nextV[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/Netted/D" type="array">
+      <obj_property name="ElementShortName">D[1:0]</obj_property>
+      <obj_property name="ObjectShortName">D[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/testSyncs/UUT/Netted/Q" type="array">
+      <obj_property name="ElementShortName">Q[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

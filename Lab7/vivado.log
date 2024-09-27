@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May  5 12:36:32 2021
+# Process ID: 2372
+# Current directory: D:/CSE100/Lab7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11464 D:\CSE100\Lab7\Lab7.xpr
+# Log file: D:/CSE100/Lab7/vivado.log
+# Journal file: D:/CSE100/Lab7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project -read_only D:/CSE100/Lab7/Lab7.xpr
+Scanning sources...
+Finished scanning sources
+CRITICAL WARNING: [Board 49-67] The board_part definition was not found for digilentinc.com:basys3:part0:1.1. This can happen sometimes when you use custom board part. You can resolve this issue by setting 'board.repoPaths' parameter, pointing to the location of custom board files. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command.
+WARNING: [Project 1-229] Project 'Lab7.xpr' is read-only and therefore could not be upgraded for this version of Vivado.  Use 'File | Save Project As...' if you wish to save an upgraded copy.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May  5 12:55:12 2021...
