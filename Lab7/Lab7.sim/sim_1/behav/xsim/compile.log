@@ -1,0 +1,50 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/Bird.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bird
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/BirdLogicHort.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BirdLogicHort
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/BirdLogicNet.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BirdLogicNet
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/BirdLogicVert.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BirdLogicVert
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/Game.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Game
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/GameLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GameLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/LSFR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LSFR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/Lab7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/Net.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Net
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/NetLogicHort.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NetLogicHort
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/NetLogicVert.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NetLogicVert
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/countUD10L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD10L
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/countUD16L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD16L
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/countUD3L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD3L
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/countUD5L.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module countUD5L
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/edgeD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edgeD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/hex7seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex7seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/lab7_clks.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab7_clks
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clkcntrl4
+INFO: [VRFC 10-311] analyzing module FTCE_MXILINX_clkcntrl4
+INFO: [VRFC 10-311] analyzing module CB4CE_MXILINX_clkcntrl4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/m8_1e.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m8_1e
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/ring.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ring
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sources_1/new/selector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module selector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CSE100/Lab7/Lab7.srcs/sim_1/new/testSyncs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testSyncs
+INFO: [VRFC 10-311] analyzing module check_the_sync_signals
+INFO: [VRFC 10-311] analyzing module check_the_rgb_signals
